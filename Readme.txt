@@ -1,0 +1,1 @@
+În această lucrare învățăm să lucrăm cu git
